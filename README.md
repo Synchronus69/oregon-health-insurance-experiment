@@ -53,6 +53,8 @@ recorded for the full population rather than only survey respondents,
 indicated the randomization itself was sound and the remaining
 differences were a survey non-response pattern.
 
+![Balance check: raw vs. household-list-size-controlled p-values](balance_check_chart.png)
+
 Of 11 outcomes tested, 8 showed a statistically significant effect in the
 direction reported by the original study: higher rates of doctor visits
 and prescription use, improved self-reported health, fewer physically
@@ -64,6 +66,8 @@ detectable effect size (Cohen's d = 0.026) indicates the sample was large
 enough that these two null results are unlikely to reflect low
 statistical power.
 
+![Effect of Medicaid selection across 11 outcomes, with 95% confidence intervals](main_outcomes_chart.png)
+
 The effect of Medicaid selection was larger for people with a
 pre-existing chronic condition on two outcomes: the increase in doctor
 visits was about twice as large, and the reduction in medical debt
@@ -71,6 +75,8 @@ borrowing was more than three times as large, compared with people
 without a chronic condition. Both differences hold after a Bonferroni
 correction for the 11 comparisons tested. No other outcome showed a
 significant difference between the two groups.
+
+![Medicaid's effect on doctor visits and medical debt, by chronic condition status](subgroup_extension_chart.png)
 
 ## Limitations
 Three baseline health conditions, diabetes, high blood pressure, and
